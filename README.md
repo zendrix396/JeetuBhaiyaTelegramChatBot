@@ -1,13 +1,13 @@
 # Telegram Chatbot
 
 This is a Telegram chatbot that uses the `neuralintents` library for natural language processing and integrates with various APIs to provide responses to user queries.
-
+> I have created this script in grade 10th for a friend telegram gc for boards preparation
 ## Files
 
 - `bot.py`: Contains the `telegram_chatbot` class for interacting with the Telegram API.
 - `chatbot.py`: Contains the `reply` function which processes user messages and generates responses.
 - `main.py`: The main script that runs the bot, fetching updates and sending responses.
-- `intents.json`: Contains the training data for the chatbot.
+- `intents.json`: Contains the training data for the chatbot. (currently hidden as it contains *ahem* explicit words, you know boys gc and all)
 - `manners.json`, `questions.json`, `rankings.json`: JSON files used for storing user data and questions.
 
 ## Setup
